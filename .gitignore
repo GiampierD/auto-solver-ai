@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Variables de entorno y credenciales (NUNCA SUBIR)
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Capturas de pantalla temporales generadas en tiempo de ejecución
+*.png
+temp_capture.png
+auto_capture.png
+
+# Configuraciones de editor
+.vscode/
+.idea/
